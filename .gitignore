@@ -1,0 +1,5 @@
+DATA/*
+
+!DATA/.gitkeep
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
